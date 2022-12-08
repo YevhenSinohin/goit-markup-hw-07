@@ -2,6 +2,9 @@
     border-bottom: 1px solid $header-color;
 
 }
+.logo {
+    text-decoration: none;
+}
 
 .header__nav {
     display: flex;
@@ -46,6 +49,7 @@
     line-height: 1.19;
     letter-spacing: 0.03em;
     color: $black-color;
+    text-decoration: none;
 }
 
 .header__link:hover,

@@ -340,6 +340,10 @@ body {
   border-bottom: 1px solid #ECECEC;
 }
 
+.logo {
+  text-decoration: none;
+}
+
 .header__nav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -390,6 +394,7 @@ body {
   line-height: 1.19;
   letter-spacing: 0.03em;
   color: #000000;
+  text-decoration: none;
 }
 
 .header__link:hover,
